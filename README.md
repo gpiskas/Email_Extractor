@@ -1,4 +1,8 @@
-Email_Extractor
+Email Extractor
 ===============
 
-A simple application that extracts all emails found from any given text
+A simple application that extracts all emails found in any given text.
+
+The repository structure is based on the Eclipse IDE android project layout. You can import the code there and start coding!
+
+Email Extractor Copyright (C) 2013 George Piskas
